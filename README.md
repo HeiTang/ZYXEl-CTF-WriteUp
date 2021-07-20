@@ -444,7 +444,7 @@ C:\Documents and Settings\Files\Admin>
 ## 數位鑑識
 ### [10pts] 數位鑑識-01 
 #### 題目
-:::success
+
 - 說明：
     - 請找出惡意程式下載連結及常駐於系統的惡意程式
 - 答案格式：
